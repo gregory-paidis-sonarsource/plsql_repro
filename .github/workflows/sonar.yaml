@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - 'master'
+      - 'main'
 
 jobs:
   sonar-base-branch:
